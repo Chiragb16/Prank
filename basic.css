@@ -1,0 +1,13 @@
+body{
+    background-image: url("aizen.jpg");
+    background-size: cover;
+}
+button{
+    height: 830px;
+    width: 100%;
+    background-image: none;
+    background-color:transparent ;
+    backface-visibility: hidden;
+ border-color: transparent;
+
+}
